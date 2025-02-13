@@ -6,7 +6,7 @@ Dive into the enchanting world of **Bear Clicker**, a delightful clicker game wh
 
  This simple yet captivating gameplay mechanic invites you to embark on a lighthearted adventure filled with fun and excitement.
 
-![Bear Clicker](https://game.playclickergames.org/202502112252113.png)
+![Bear Clicker](https://game.playclickergames.org/202502102206935.png)
 
 ## Gameplay Mechanics
 
