@@ -8,6 +8,22 @@ Dive into the enchanting world of **Bear Clicker**, a delightful clicker game wh
 
 ![Bear Clicker](https://game.playclickergames.org/202502102206935.png)
 
+## Other Popular Clicker Games
+- [Spacebar Clicker](https://playclickergames.org/game/spacebar-clicker)
+- [Whopper Clicker](https://playclickergames.org/game/whopper-clicker)
+- [Duck Duck Clicker](https://playclickergames.org/game/duck-duck-clicker)
+- [Duck Duck Clicker 3D](https://playclickergames.org/game/duck-duck-clicker-3d)
+- [Candy Clicker](https://playclickergames.org/game/candy-clicker)
+- [Candy Clicker 2](https://playclickergames.org/game/candy-clicker-2)
+- [Bear Clicker](https://playclickergames.org/game/bear-clicker)
+- [Chill Guy Clicker](https://playclickergames.org/game/chill-guy-clicker)
+- [Kiwi Clicker](https://playclickergames.org/game/kiwi-clicker)
+- [Roblox Clicker](https://playclickergames.org/game/roblox-clicker)
+- [Planet Clicker](https://playclickergames.org/game/planet-clicker)
+- [Cookie Clicker](https://playclickergames.org/game/cookie-clicker)
+- [Easter Clicker](https://playclickergames.org/game/easter-clicker)
+- [Fruit Clicker](https://playclickergames.org/game/fruit-clicker)
+
 ## Gameplay Mechanics
 
 In **Bear Clicker**, each click on your furry companions generates valuable resources. As you accumulate points, you can invest in a variety of upgrades that enhance your resource generation. These upgrades automate the clicking process, allowing you to watch your wealth grow effortlessly. The satisfying cycle of clicking, upgrading, and witnessing your numbers soar keeps players returning for more!
