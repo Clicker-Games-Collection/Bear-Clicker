@@ -4,9 +4,7 @@ Dive into the enchanting world of **Bear Clicker**, a delightful clicker game wh
 
 👉👉 Click to play [Bear Clicker](https://playclickergames.org/game/bear-clicker)
 
- This simple yet captivating gameplay mechanic invites you to embark on a lighthearted adventure filled with fun and excitement.
-
-![Bear Clicker](https://game.playclickergames.org/202502102206935.png)
+This simple yet captivating gameplay mechanic invites you to embark on a lighthearted adventure filled with fun and excitement.
 
 ## Other Popular Clicker Games
 - [Spacebar Clicker](https://playclickergames.org/game/spacebar-clicker)
@@ -23,6 +21,8 @@ Dive into the enchanting world of **Bear Clicker**, a delightful clicker game wh
 - [Cookie Clicker](https://playclickergames.org/game/cookie-clicker)
 - [Easter Clicker](https://playclickergames.org/game/easter-clicker)
 - [Fruit Clicker](https://playclickergames.org/game/fruit-clicker)
+
+![Bear Clicker](https://game.playclickergames.org/202502102206935.png)
 
 ## Gameplay Mechanics
 
