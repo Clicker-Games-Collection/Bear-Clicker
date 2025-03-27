@@ -22,7 +22,7 @@ This simple yet captivating gameplay mechanic invites you to embark on a lighthe
 - [Easter Clicker](https://playclickergames.org/game/easter-clicker)
 - [Fruit Clicker](https://playclickergames.org/game/fruit-clicker)
 
-![Bear Clicker](https://game.playclickergames.org/202503271209953.png)
+![Bear Clicker](https://game.playclickergames.org/202503271222101.png)
 
 ## Gameplay Mechanics
 
